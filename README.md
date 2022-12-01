@@ -1,1 +1,1 @@
-# autodeploye-django
+# autodeploy-django
