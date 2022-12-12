@@ -18,4 +18,4 @@ RUN pip install --no-cache-dir -r requirements.txt && \
 RUN chmod +x gunicorn.sh
 EXPOSE 8000
 ENTRYPOINT ["./gunicorn.sh"]
-jenkins ALL= NOPASSWD: ALL
+
